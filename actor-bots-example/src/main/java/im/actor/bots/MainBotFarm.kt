@@ -10,8 +10,8 @@ fun main(args: Array<String>) {
 
 
         bot(EchoStatefulBot::class) {
-            name = "BOT_NAME_HERE"
-            token = "YOUR_TOKEN_HERE"
+            name = "newafri"
+            token = "b3df5b8f0f00f717b4a318c4277608136c489562"
         }
 
     }
